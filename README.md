@@ -19,16 +19,16 @@ Version Control: Git & GitHub
 
 Follow these steps to run the project locally:
 
-# Clone the repository
+**Clone the repository**
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
-# Navigate to project folder
+**Navigate to project folder**
 cd YOUR_REPO_NAME
 
-# Install dependencies
+**Install dependencies**
 npm install
 
-# Start development server
+**Start development server**
 npm run dev
 
 
